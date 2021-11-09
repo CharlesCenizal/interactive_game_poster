@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.alpha
+{
+  padding-top: 100px;
+  background-position: center;
+  font-family: courier, monospace;
+  size: 20pt;
+  background-color: #21575e;;
+  text-align: center;
+  height: 100px;
+  width: 1000px;
+}
+.beta,.ace
+{
+  color:#f05253;
+  background-position: center;
+  text-align: center;
+  background-color: #21575e;
+  font-size: 75pt;
+  height: 120px;
+  width: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pheonixwright
+{
+ font-size: 50pt;
+ foamily: "Times New Roman", Times, serif;
+ background-color: #21575e;
+ color: #f4d8cd;
+  
+}
+.capcom,.comingsoon
+{
+  font-size: 30pt;
+  background-position: center;
+  text-align: center;
+  background-color: #21575e;
+  width: 800px;
+  height: 300px;
+  width: 1000px;
+  color: #edb183;
+}
+.comingsoon
+{
+  font-size: 20pt;
+  
+}
+canvas {
+  display: block;
+}
