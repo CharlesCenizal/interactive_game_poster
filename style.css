@@ -13,7 +13,7 @@ html, body {
   height: 100px;
   width: 1000px;
 }
-.beta,.ace
+.ace,.attorney
 {
   color:#f05253;
   background-position: center;
@@ -24,8 +24,17 @@ html, body {
   width: 1000px;
   font-family: Arial, Helvetica, sans-serif;
 }
+.attorney:hover
+{
+  color:#f7022a;
 
-.pheonixwright
+}
+.phoenixwright:hover
+{
+  color: #FFC0CB;
+}
+
+.phoenixwright
 {
  font-size: 50pt;
  foamily: "Times New Roman", Times, serif;
