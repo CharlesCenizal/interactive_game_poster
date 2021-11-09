@@ -23,10 +23,21 @@
         Attorney
       </div>
       <div class="capcom"> Capcom
+        <button class="button" onclick="addCode()">
         <span class="comingsoon"> coming soon </span>
+        </button>
+        <div class="padding"> &lt; /div&gt;
+        <div id="add_after_me"> </div>
+        
+        <script>
+        function addCode() {
+            document.getElementById("add_after_me").insertAdjacentHTML("afterend",
+                "<div class = comingsoon>10 - 12 - 22</div>");
+        }
+    </script>
       </div>
       
     </div>
   
 
-</body></html>
+</div></body></html>

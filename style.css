@@ -56,8 +56,30 @@ html, body {
 .comingsoon
 {
   font-size: 20pt;
+  background-color: #21575e;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: none;
+  padding-color: none;
+
   
 }
+.button {
+  background-color:#21575e; /* Green */
+  border: none;
+  color: white;
+  padding: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.padding
+{
+  color:#21575e;
+  font-size: 15pt;
+  padding-top: 1px;
+}
+
 canvas {
   display: block;
 }
