@@ -53,6 +53,10 @@ html, body {
   width: 1000px;
   color: #edb183;
 }
+.capcom,.comingsoon:hover{
+  color: #FF8C00
+}
+
 .comingsoon
 {
   font-size: 20pt;
